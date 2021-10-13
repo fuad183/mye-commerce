@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(182, 17, 72);
+    font-weight: 700;
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(20, 20, 20);
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, rgb(216, 48, 188) 0%, rgb(168, 14, 117) 100%);
+    border-radius: 9px;
+    color: white;
+    font-weight: 500;
+    padding: 7px 18px;
+
+}
